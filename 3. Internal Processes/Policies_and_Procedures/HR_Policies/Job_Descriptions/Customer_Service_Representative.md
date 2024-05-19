@@ -1,10 +1,14 @@
-# Customer Service Representative Job Description
+# Job Specification: Customer Service Representative
 
-## Position Overview:
+**Company:** Caricom Connects: Driving Integration and Empowerment  
+**Location:** Trinidad and Tobago  
+**Employment Type:** Full-Time
+
+## Position Summary
 
 Caricom Connects is seeking a dedicated and customer-focused individual to join our team as a Customer Service Representative. The Customer Service Representative will be responsible for providing exceptional customer support and assistance to clients within the Caricom region, utilizing the Gorgias Helpdesk platform to manage and resolve customer inquiries and issues.
 
-## Responsibilities:
+## Responsibilities
 
 1. **Customer Support:**
 
@@ -33,7 +37,7 @@ Caricom Connects is seeking a dedicated and customer-focused individual to join 
    - Maintain a comprehensive knowledge base of products, services, policies, and procedures to support effective customer service delivery.
    - Continuously update and improve knowledge base content to ensure accuracy and relevance for customer support purposes.
 
-## Qualifications:
+## Qualifications
 
 - Previous experience in customer service or support role preferred.
 - Familiarity with customer service software and platforms, with experience using Gorgias Helpdesk a plus.
@@ -42,12 +46,12 @@ Caricom Connects is seeking a dedicated and customer-focused individual to join 
 - Empathy, patience, and a customer-centric mindset, with a genuine desire to assist customers and provide exceptional service.
 - Ability to multitask and prioritize tasks in a fast-paced environment, while maintaining attention to detail and accuracy.
 
-## Working Conditions:
+## Working Conditions
 
 - This position may involve working remotely or from a designated office location, depending on company policies and requirements.
 - Flexible scheduling may be required to accommodate customer support needs and business demands, including evenings, weekends, and holidays.
 
-## Application Process:
+## Application Process
 
 To apply for the Customer Service Representative position at Caricom Connects, please submit your resume and cover letter detailing your qualifications and relevant experience to [contact email or application link]. We thank all applicants for their interest in joining our team and will contact those selected for further consideration.
 
